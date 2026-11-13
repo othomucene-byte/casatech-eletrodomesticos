@@ -7,7 +7,7 @@ export default function App() {
       <main className="max-w-6xl mx-auto space-y-6">
         <header className="border-b border-slate-800 pb-4">
           <h1 className="text-2xl font-bold text-white">CasaTech Eletrodomésticos</h1>
-          <p className="text-sm text-slate-400 mt-1">Painel de gestão e catálogo operacional da CasaTech Eletrodomésticos com visual aprimorado, micro-interações e persistência local.</p>
+          <p className="text-sm text-slate-400 mt-1">Painel de gestão operacional e catálogo com métricas interativas para CasaTech Eletrodomésticos.</p>
         </header>
         <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-sm">
           <p className="text-sm text-slate-300">Aplicação React ativa com renderização em tempo real.</p>
