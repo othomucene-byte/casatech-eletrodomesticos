@@ -1,6 +1,6 @@
 # CasaTech Eletrodomésticos
 
-Painel de gestão e catálogo operacional da CasaTech Eletrodomésticos com visual aprimorado, micro-interações e persistência local.
+Painel de gestão operacional e catálogo com métricas interativas para CasaTech Eletrodomésticos.
 
 ## 🚀 Tecnologias
 - **React 19 + TypeScript**
